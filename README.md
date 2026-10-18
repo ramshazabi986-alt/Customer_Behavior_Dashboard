@@ -17,17 +17,12 @@ The project focuses on data cleaning, exploratory data analysis (EDA), SQL-based
 
 The dataset contains the raw data used for analysis.
 
-- **Source:** [Add dataset source]
-- **Format:** CSV / Excel / Database
-- **Description:** [Briefly describe the dataset and its business context]
-- **Key Features:** [Mention important columns or variables]
-
+- **Source:** [Customer_Behavior_Dashboard.csv]
+- **Format:** CSV
+-
 The dataset is inspected, cleaned, and prepared before analysis to improve data quality and consistency.
 
 ## 3. Tools & Technologies
-
-| Tool | Purpose |
-
 | Python | Data loading, cleaning, and analysis |
 | Pandas & NumPy | Data manipulation and preprocessing |
 | Matplotlib & Seaborn | Data visualization during EDA |
@@ -37,7 +32,6 @@ The dataset is inspected, cleaned, and prepared before analysis to improve data 
 | Gamma | Presentation creation |
 | Jupyter Notebook | Analysis and documentation |
 
-*The specific tools used may vary depending on the project requirements.*
 
 ## 4. Project Workflow
 
@@ -80,11 +74,6 @@ The Power BI dashboard presents the key metrics and findings in an interactive a
 - Visual summaries of important findings.
 - Business-focused insights to support decision-making.
 
-**Dashboard Preview:**
-
-[Insert Power BI dashboard screenshot here]
-
-**Dashboard Link:** [Add Power BI public link, if available]
 
 ## 6. Results & Key Insights
 
